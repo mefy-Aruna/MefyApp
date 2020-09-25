@@ -1,10 +1,10 @@
 flask==0.12.2
 flask_socketio==4.3.1
-face_recognition==1.2.3
-opencv-python
-pandas
 gunicorn
-numpy
+face_recognition==1.2.3
 cmake
 dlib
-libGL.so.1
+opencv-python
+pandas
+numpy
+
