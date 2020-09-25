@@ -7,4 +7,4 @@ gunicorn
 numpy
 cmake
 dlib
-sudo apt install libgl1-mesa-glx
+libgl1-mesa-glx
