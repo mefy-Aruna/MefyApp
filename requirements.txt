@@ -6,4 +6,4 @@ pandas==1.1.2
 gunicorn==20.0.4
 numpy
 cmake
-dlib==19.1.0
+dlib
