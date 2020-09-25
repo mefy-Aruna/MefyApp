@@ -7,4 +7,4 @@ dlib
 opencv-python
 pandas
 numpy
-
+libGL.so.1
