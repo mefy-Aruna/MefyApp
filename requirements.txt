@@ -2,7 +2,6 @@ gunicorn
 flask==0.12.2
 flask_socketio==4.3.1
 face_recognition==1.2.3
-gunicorn
 cmake
 dlib
 opencv-python
