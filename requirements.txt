@@ -3,7 +3,7 @@ flask_socketio==4.3.1
 face_recognition==1.2.3
 opencv-python
 pandas
-gunicorn=
+gunicorn
 numpy
 cmake
 dlib
