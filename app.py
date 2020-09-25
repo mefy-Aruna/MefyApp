@@ -8,7 +8,6 @@ Created on Thu Sep 19 07:12:28 2020
 from flask import Flask, url_for, render_template, redirect, session,request     
 import gunicorn
 from gunicorn import arbiter
-import cv2
 
 
 
@@ -16,7 +15,8 @@ import cv2
 Flask App:
 
 login-if user identified, success
-else: prompts to register webpage"""
+else: prompts to register webpage
+"""
 
 import faceLoginApp
 import facecode
