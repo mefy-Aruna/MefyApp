@@ -8,6 +8,7 @@ Created on Thu Sep 19 07:12:28 2020
 from flask import Flask, url_for, render_template, redirect, session,request     
 import gunicorn
 from gunicorn import arbiter
+import cv2
 
 
 
